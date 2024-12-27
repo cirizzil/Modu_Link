@@ -22,6 +22,8 @@ Modu-Link is a low-cost, open-source IoT project designed to remotely monitor an
 ├── Test.csv              # Additional test dataset
 └── README.md             # Project documentation
 ```
+## Overview Diagram 
+![image](https://github.com/user-attachments/assets/63a3abef-70a1-4bdf-9193-1e6f22b91baf)
 
 ## Requirements
 
@@ -83,6 +85,9 @@ device_id,timestamp,temperature,light_intensity
 
 ### Real-Time Visualization
 
+### 3D Print Case
+![image](https://github.com/user-attachments/assets/9c0b2384-55ec-42b8-8e4e-98cb64e925d1)
+![image](https://github.com/user-attachments/assets/15cc3a19-9080-4873-8cbb-640d37689fca)
 
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests for bug fixes or feature enhancements.
