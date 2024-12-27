@@ -84,6 +84,8 @@ device_id,timestamp,temperature,light_intensity
 ```
 
 ### Real-Time Visualization
+![image](https://github.com/user-attachments/assets/01a37ebb-4ac2-4774-b133-ae432f0506f2)
+![image](https://github.com/user-attachments/assets/207baf64-f6fd-4089-9a5d-a64d8093da6e)
 
 https://github.com/user-attachments/assets/7606ce9f-fd0f-488b-8319-b7e4c472062f
 
