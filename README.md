@@ -1,4 +1,4 @@
-```markdown
+
 # Modu-Link: Remote Access Controller (RAC)
 
 Modu-Link is a low-cost, open-source IoT project designed to remotely monitor and control connected sensors via Wi-Fi. This repository contains both the ESP32 client-side and server-side implementations, enabling seamless wireless data logging and visualization.
@@ -95,7 +95,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - **Benjamin Hughes** - Embedded Systems & Hardware Integration
 - **Trevor Standen** - Project Management & Hardware Design
 - **Aditya Manoj** - Enclosure Design
-- **Ibrahim Dairkee** - Software Assistance & GUI
 
-
-```
