@@ -85,7 +85,7 @@ device_id,timestamp,temperature,light_intensity
 
 ### Real-Time Visualization
 
-<center>https://github.com/user-attachments/assets/7606ce9f-fd0f-488b-8319-b7e4c472062f</center>
+https://github.com/user-attachments/assets/7606ce9f-fd0f-488b-8319-b7e4c472062f
 
 
 ### 3D Print Case
